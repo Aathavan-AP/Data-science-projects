@@ -1,0 +1,1 @@
+Using Sql to retrive the data in this project, since there is no data file.
